@@ -1,6 +1,6 @@
-# 👨‍💼 Alexander Vinnik
+# Alexander Vinnik
 
-**Senior Business/System Analyst | Business & Data Analytics Expert | Digital Transformation Leader**
+**Senior Business/System Analyst | Product Manager | Business & Data Analytics Expert | Digital Transformation Leader**
 
 🌍 Based in GMT+3 / +7 | 📞 +7 (960) 470 73 17 | 📧 aleksandr.vinnik@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/alexander-vinnik-iv) • [GitHub](https://github.com/AleksandrVinnik)
@@ -51,14 +51,14 @@ My professional journey includes major contributions to telecom leaders such as 
 - Achieved a +17% increase in CSR efficiency by implementing the B2C Request-to-Answer and Problem-to-Solution business processes in Amdocs CRM at Rostelecom Russia.  
 - Developed a Statement of Work (SoW) for the integration of Peter Service Billing with Amdocs CRM.  
 
-### 🔹 **Product Manager / Head of Analytics** @ Tele2 Russia International Cellular BV, Rostov-on-Don, Russia (Sep 2008 – Dec 2012)  
+### 🔹 **Product Manager / Head of Analytics** @ Tele2 Russia International Cellular BV (Sep 2008 – Dec 2012)  
 *Tele2 AB is one of Europe's fastest-growing telecom operators, has about 38M+ customers in 9 countries.*
 
-#### 📌 Product Manager (Jan 2012 – Dec 2012)
+### 🔹 **Product Manager** @ Tele2 Russia International Cellular BV (Jan 2012 – Dec 2012)
 
 - Delivered a 7% growth in ARPU and a 10% increase in the customer base at Tele2 Rostov-on-Don with 2M+ mobile customers by implementing innovative products and customer-centric marketing.  
 
-#### 📌 Head of Analytics (Sep 2008 – Dec 2012)
+### 🔹 **Head of Analytics** @ Tele2 Russia International Cellular BV (Sep 2008 – Dec 2012)
 
 - Enhanced workforce demand forecast accuracy by 25% for 1st and 2nd lines of support at Tele2 Russia by implementation a long-term forecasting framework using Erlang C and ARIMA models.  
 - Attained +25% increase in Agent Occupancy, +18% in Schedule Adherence, and +29% in Agent Utilization by implementing 15-minute intervals scheduling Workforce Management solution Teleopti CCC for 500+ employees serving 22M+ end-customers 24/7 in 5 time zones across Russia.  
@@ -72,13 +72,13 @@ Specialization: Applied Mathematics and Informatics
 
 ---
 
-## 📊 Certifications & Courses
+## 📜 Certifications & Courses
 
-- 📈 *Data Analyst (Karpov.Courses)* – 2023  
-- 📋 *Business Analysis (Netcracker)* – 2020  
-- 🧠 *Requirements Development (AT-Consulting)* – 2018  
-- 📚 *Optimal Workforce Planning (Teleopti AB)* – 2009  
-- 💬 *Empathetic Communication & Team Building (Tele2)*
+-  *Data Analyst (Karpov.Courses)* – 2023  
+-  *Business Analysis (Netcracker)* – 2020  
+-  *Requirements Development (AT-Consulting)* – 2018  
+-  *Optimal Workforce Planning (Teleopti AB)* – 2009  
+-  *Empathetic Communication & Team Building (Tele2)*
 
 ---
 
@@ -108,4 +108,3 @@ Specialization: Applied Mathematics and Informatics
 ---
 
 > _“Delivering business value through clarity, collaboration, and systems thinking.”_
-
