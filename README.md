@@ -2,12 +2,12 @@
 
 **Senior Business/System Analyst | Product Manager | Business & Data Analytics Expert | Digital Transformation Leader**
 
-🌍 Based in GMT+3 / +7 | 📞 +7 (960) 470 73 17 | 📧 aleksandr.vinnik@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/alexander-vinnik-iv) • [GitHub](https://github.com/AleksandrVinnik)
+🌍 Based in GMT+3 / +7 | 📞 +7 (960) 470 73 17 | 📩 aleksandr.vinnik@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/alexander-vinnik-iv)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a Senior Business/System Analyst with **15+ years of international experience** leading digital transformation for telecom and enterprise clients across **Europe, LATAM, Middle East, and Southeast Asia**.
 
@@ -17,7 +17,7 @@ My professional journey includes major contributions to telecom leaders such as 
 
 ---
 
-## 🧠 Core Competencies
+## Core Competencies
 
 - **Business & Systems Analysis (Certified by Netcracker and AT-Consulting)**  
   Requirements gathering • BPMN & UML • Workshop facilitation • Stakeholder engagement • Agile/Scrum/Waterfall
@@ -33,7 +33,7 @@ My professional journey includes major contributions to telecom leaders such as 
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 ### 🔹 **Senior Business Analyst** @ Netcracker Technology Solutions LLC, Moscow, Russia (Jul 2019 – Jun 2025)  
 *An NEC Company, offers mission-critical digital transformation solutions to service providers around the globe. 1st Company in the World to Generate Mobile Bill. 30 Years of BSS/OSS. 150+ Industry Awards.*
@@ -65,14 +65,14 @@ My professional journey includes major contributions to telecom leaders such as 
 
 ---
 
-## 🎓 Education
+## Education
 
 **Southern Federal University** – Master’s in Mathematics & Programming  
 Specialization: Applied Mathematics and Informatics
 
 ---
 
-## 📜 Certifications & Courses
+## Certifications & Courses
 
 -  *Data Analyst (Karpov.Courses)* – 2023  
 -  *Business Analysis (Netcracker)* – 2020  
@@ -82,7 +82,7 @@ Specialization: Applied Mathematics and Informatics
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - **Languages**: Python (Pandas, NumPy, Prophet), SQL, VBA  
 - **Data Tools**: Tableau, Excel, A/B Testing  
@@ -92,14 +92,14 @@ Specialization: Applied Mathematics and Informatics
 
 ---
 
-## 🌐 Languages
+## Languages
 
 - 🇷🇺 Russian – Native  
 - 🇺🇸 English – Fluent
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 📩 Email: [aleksandr.vinnik@gmail.com](mailto:aleksandr.vinnik@gmail.com)  
 📞 WhatsApp: +7 960 470 73 17 | 🇹🇭 Thailand Tel: +66 98 004 2663  
